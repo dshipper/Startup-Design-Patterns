@@ -1,0 +1,86 @@
+body {   
+	background-image: url("bg.png");
+	background-repeat: repeat-x;
+	background-color: #d5d5d5; 
+	color: #000; 
+}
+
+body, p, ol, ul, td {
+  font-family: Helvetica, sans-serif;
+  font-size:   18px;
+  line-height: 22px;
+}
+
+@font-face {
+	font-family: Walkway;
+	src: url('WalkwayBold.ttf');
+}        
+
+h1{
+	font: 72px "Walkway";    
+	color: #fff;     
+	margin-top: 5px;
+	margin-bottom: 10px;
+	letter-spacing: 1px; 
+	text-align: right;
+}                      
+        
+h2{            
+	font-weight: normal;
+	font-size: 24px;
+	color: #fff;  
+	line-height: 30px;
+	letter-spacing: 1px;
+} 
+
+h3{
+	margin-top: 0px;
+	padding-top: 0px;
+	margin-bottom: 5px;
+}   
+
+#content{
+	width: 900px;
+	margin: auto;
+} 
+
+#head a{
+	color: #f8f362;
+	text-decoration: none;
+}
+
+#head-right{
+	float: right;
+	width: 500px;
+	text-align: right;
+	color: #fff;
+}  
+
+#book{
+	padding-top: 100px;
+	padding-bottom: 100px; 
+	padding-left: 50px;
+}   
+
+#more{
+	padding-top: 10px;
+	position: relative;
+	bottom: 20px;
+}  
+
+#more-right{
+	width: 450px;
+	float: right;
+}               
+                            
+#more-left{                 
+	margin-top: 40px;
+	padding: 15px;
+	width: 380px;
+	background-color: #f4fafb;
+	border: 1px solid #e1e1e1;
+}   
+
+.center{
+	text-align: center;
+}
