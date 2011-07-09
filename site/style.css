@@ -14,7 +14,12 @@ body, p, ol, ul, td {
 @font-face {
 	font-family: Walkway;
 	src: url('WalkwayBold.ttf');
-}        
+}  
+
+a{
+	color: #3088ed;
+	text-decoration: none;
+}      
 
 h1{
 	font: 72px "Walkway";    
