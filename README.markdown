@@ -1,7 +1,7 @@
-Design Patterns for Startups
-============================
-Use elements of successful startups to increase your project's chances of success. 
-----------------------------------------------------------------------------------
+# Design Patterns for Startups
+
+## Use elements of successful startups to increase your project's chances of success. 
+
 
 ###What Are the Elements of A Successful Startup?
 That's a question I am obsessed with answering. Successful startups have common elements that can be identified, categorized and applied to any web business.
