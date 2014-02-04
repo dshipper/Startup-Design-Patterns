@@ -11,4 +11,4 @@ What are the similarities between Facebook and Google? Between Groupon and Zynga
 ###The First Open-Source Book
 As the book develops I will commit my progress regularly to GitHub. This means that anyone can edit, contribute to, or fork the book as it's being written, adding both to the quality of the book and helping to foster a new creative writing process. 
 
-If you contribute to the book on GitHub you will be listed as a contributor or editor, whichever is more appropirate, when it is finally published.
+If you contribute to the book on GitHub you will be listed as a contributor or editor, whichever is more appropriate, when it is finally published.
